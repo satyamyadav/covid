@@ -1,10 +1,10 @@
 ## COVID-19 Tracker App
 Welcome! This tutorial will guide you in creating an awesome app with the Innovaccer Design System. Here is a [preview](https://covid19-tracker.info/) of the app that we are going to build.
 
-**Audience**
+**Audience** <br/>
 This tutorial is intended for people with all amounts of web development experience. If you want to jump straight to code, you may want to skip this tutorial and go to the [developer guidelines](https://github.com/aregee/design-system/blob/master/README.md) page.
 
-**Getting Started**
+**Getting Started** <br/>
 Each step in this guideline illustrates a different aspect of developing web applications with Innovaccer design system. Refer the following sections below to get familiar with this project:
 * [Installation](#Installation)
 * [Building Landing Page](#BUILDING_LANDING_PAGE)
@@ -19,9 +19,10 @@ npm start
 ```
 Next, you need to install Innovaccer design system in your project. You need to follow the [developer guidelines](https://github.com/aregee/design-system/blob/master/README.md) steps to install the design system.
 
-### <a name="#BUILDING_LANDING_PAGE"></a>Building Landing Page
+### <a name="BUILDING_LANDING_PAGE"></a>Building Landing Page
 A preview of what you will build:
-![Covid App]()
+
+![alt tag](https://github.com/riyalohia/covid/blob/feat-docs/images/Covid-App.png)
 
 Lets begin by creating a React component called Home. In the src directory, create a Home directory. Create the following files inside *src/Home/index.js* and *src/Home/Home.css*:
 ```
